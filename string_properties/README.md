@@ -19,7 +19,7 @@ python string_properties.py
 ```
 # Day1.py
 
-In this script, we explored lower(), upper(), and title() methods.
+## In this script, we explored lower(), upper(), and title() methods.
 
 To run the script, use:
 ```sh
