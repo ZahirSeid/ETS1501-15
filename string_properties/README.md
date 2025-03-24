@@ -17,6 +17,9 @@
 python string_properties.py
 
 ```
+
+## Note: check the code on the scripts for examples and explanations 
+
 # Day1.py
 
 ## In this script, we explored lower(), upper(), and title() methods.
@@ -26,3 +29,12 @@ To run the script, use:
 python Day1.py
 ```
 
+# Day2.py
+
+## In this Script, we explored str.capitalize(), str.swapcase() & str.find() methods.
+
+To run the script, use:
+```sh 
+python Day2.py
+
+```
