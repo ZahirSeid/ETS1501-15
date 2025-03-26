@@ -38,3 +38,14 @@ To run the script, use:
 python Day2.py
 
 ```
+
+# Day3.py
+
+## In this script, we explored str.index(), str.startswith() and str.endswith() methods.
+
+To run the script use:
+
+```sh
+python Day3.py
+```
+
