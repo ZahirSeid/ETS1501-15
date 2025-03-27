@@ -49,3 +49,12 @@ To run the script use:
 python Day3.py
 ```
 
+# Day4.py 
+
+## In this scripit, we explored str.count(), str.replace() and str.strip() methods.
+
+To run the scripit use:
+
+```sh
+python Day4.py
+```
