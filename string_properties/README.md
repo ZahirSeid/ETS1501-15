@@ -58,3 +58,13 @@ To run the scripit use:
 ```sh
 python Day4.py
 ```
+
+# Day5.py 
+
+## In this scripit, we explored str.lstrip(), str.rstrip() and str.split() methods.
+
+To run the scripit use:
+
+```sh
+python Day5.py
+```
