@@ -68,3 +68,13 @@ To run the scripit use:
 ```sh
 python Day5.py
 ```
+
+# Day6.py
+
+## In this script, we explored str.join(), str.isalpha() and str.isdigit() methods.
+
+To run the scripit use:
+
+```sh
+python Day6.py
+```
